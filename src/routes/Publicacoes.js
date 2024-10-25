@@ -13,8 +13,8 @@ export default class Publicacoes extends React.Component{
     }
 
     exibirPublicacoes() {
-        fetch("http://localhost:8000/pubs.php")
-//        fetch("/api/pubs.php")
+        //fetch("http://localhost:8000/pubs.php")
+        fetch("/api/pubs.php")
             .then((response) => response.json())
             .then((responseJson) => {
                 this.setState({
