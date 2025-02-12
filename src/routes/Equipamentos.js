@@ -112,25 +112,6 @@ function Equipamentos () {
                         alt="Synapt G2 HDMS"
                         />
                         <h5 className="h5img">Synapt G2 HDMS</h5>
-                    </Center>                    
-                    <Center className="englobaImgEquip"
-                    onClick={()=>openModal(1, {path: 'amazonETD', alt: 'AmaZon ETD'})}> 
-                        <img 
-                        height={280}
-                        className="imgEquip"
-                        src={amazonETD}
-                        alt="AmaZon ETD"
-                        />
-                        <h5 className="h5img">AmaZon ETD</h5>
-                    </Center>                    
-                    <Center className="englobaImgEquip"
-                    onClick={()=>openModal(2, {path: 'micro', alt: 'micrOTOF II'})}> 
-                        <img 
-                        className="imgEquip"
-                        src={micro}
-                        alt="micrOTOF II"
-                        />
-                        <h5 className="h5img">micrOTOF II</h5>
                     </Center>
                 </Center>
             </div>
