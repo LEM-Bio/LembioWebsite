@@ -1,9 +1,6 @@
 import { Center, Flex, Heading, Image, Text, VStack } from "@chakra-ui/react";
 import { useEffect, useState } from "react";
 import '../styles/equipamentos.css'
-import Synapt from '../img/equipamentos/Synapt.jpg'
-import micro from '../img/equipamentos/microTOFII.jpg'
-import amazonETD from '../img/equipamentos/amazonETD.png'
 import Modal from 'react-modal'
 
 import data from '../data/components-mock.json'
@@ -15,12 +12,10 @@ Modal.setAppElement('#root')
 function Equipamentos () {
     const [modalIsOpen, setIsOpen] = useState(false)
     const [index, setIndex] = useState(0)
-    const [imageEquip, setImage] = useState({ path: '', alt: '' });
 
-    function openModal(newIndex, imageEquip = {}){
+    function openModal(newIndex){
         setIsOpen(true);
-        setIndex(newIndex);
-        setImage(imageEquip);
+        setIndex(newIndex)
         document.body.classList.add('modal-open');
     }
 
@@ -70,10 +65,8 @@ function Equipamentos () {
                     >
                         <Image
                             className="imgEquipModal"
-                            src={imageEquip.path === 'Synapt' ? Synapt :
-                            (imageEquip.path === 'amazonETD' ? amazonETD :
-                            (imageEquip.path === 'micro' ? micro : ''))}
-                            alt={imageEquip.alt}
+                            src={data.equipamentos[index].image.url}
+                            alt={data.equipamentos[index].image.alt}
                             w={400}
                             maxH={500}
                             objectFit={"cover"}
@@ -103,16 +96,20 @@ function Equipamentos () {
             <h2 className='categoriaTitle'>Equipamentos disponíveis</h2>
             <div>
                 <Center className="centerEquips" flexDirection={tamanho < 3 && 'column'} style={{marginTop:100}}>
-                    <Center className="englobaImgEquip"
-                    onClick={()=>openModal(0, {path: 'Synapt', alt: 'Synapt G2 HDMS'})}>                     
-                        <img 
-                        height={340}
-                        className="imgEquip"
-                        src={Synapt}
-                        alt="Synapt G2 HDMS"
-                        />
-                        <h5 className="h5img">Synapt G2 HDMS</h5>
-                    </Center>
+                    {data.equipamentos.map((equipamento, index) => (
+                        
+                            <Center className="englobaImgEquip"
+                            onClick={()=>openModal(index)}> 
+                                <img 
+                                height={340}
+                                className="imgEquip"
+                                src={equipamento.image.url}
+                                alt={equipamento.image.alt}
+                                />
+                                <h5 className="h5img">{equipamento.cardTitle}</h5>
+                            </Center>
+
+                    ))}
                 </Center>
             </div>
         </div>

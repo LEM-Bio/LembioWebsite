@@ -155,16 +155,89 @@
   ],
   "equipamentos": [
     {
+      "cardTitle": "Synapt G2 HDMS",
       "title": "Synapt G2 HDMS (Q-TOF, Waters) acoplado ao sistema de cromatografia nanoAcquity UPLC (Waters)",
-      "content": "O SYNAPT G2-S HDMS \u00e9 um espectr\u00f4metro de massa de tempo de voo (oa-TOF, Time of Flight) de acelera\u00e7\u00e3o ortogonal, de mobilidade i\u00f4nica, quadrupolo e h\u00edbrido controlado pelo software MassLynx\u00ae . Este sistema combina espectrometria de massa de alta resolu\u00e7\u00e3o de massa exata com medi\u00e7\u00f5es e separa\u00e7\u00f5es baseadas na mobilidade i\u00f4nica de alta efici\u00eancia (IMS)."
+      "content": "O SYNAPT G2-S HDMS \u00e9 um espectr\u00f4metro de massa de tempo de voo (oa-TOF, Time of Flight) de acelera\u00e7\u00e3o ortogonal, de mobilidade i\u00f4nica, quadrupolo e h\u00edbrido controlado pelo software MassLynx\u00ae . Este sistema combina espectrometria de massa de alta resolu\u00e7\u00e3o de massa exata com medi\u00e7\u00f5es e separa\u00e7\u00f5es baseadas na mobilidade i\u00f4nica de alta efici\u00eancia (IMS).",
+      "image":{
+        "url": "https://i.imgur.com/LcpEhyc.jpeg",
+        "alt": "Synapt G2 HDMS"
+      }
+    }
+  ],
+  "coordenadores": [
+    {
+      "name": "Prof. Dr. Alexandre Keiji Tashima",
+      "curriculo": "https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4760581U6&tokenCaptchar=03AFcWeA67vb6fQcEEE0zdltc9DyE6vRLV0neW6O_c55Dyn6_41hoFvLu0T1oGXa_FDq25Dz6ZD5eFsjkA_QTIE1XHCfJbyOD80xY5JGCUqpOpCUlCONzM-YZ5OnKAjLk0Jlmd6_zJ71-Qp-q18IwdQmeCWAkQPfqCjVizGvS9cIVgL_dyymsCPnOCY9LV6vj4Coj_Eu1O21koh9eCfWWtXe6MbkujK3xJksMQrmb1GSmI6XgYhJJvTaNCwk4SCl3fcqXzfINUv5_eyelRXuRJHMsbVANqNsUINLrGlc8tMv15Br1ZgnKS3c7gqYrSEhaj5BodzaGAZ5ZPupeRxgPRR6lAUGzmp-1sIBd3SiECotaaTuFK8m3vJvjT9rsSxltRScUssp_A6GzaLijpZnSwnIhzXwBfIAtCYJjkuGY4UqTB57x8qO_Ft-luVlHpEKR4cNgdvBT_TtK9T8TjBvRx4ugv_s8bXqpPngx74zkNJXc2slmIAXcu9IWnWwzW6QdMByzZurvnoKxQea_B7RfL7f90fdp7yG1yyIrTMsCaZaMkxnlmSGoVGtk1cpwCxWfwUm82BZDEtOdj",
+      "posicaoLab": "Coordenador",
+      "posicaoUni": "Professor Associado",
+      "dep": "Departamento de Bioquímica",
+      "uni": "Escola Paulista de Medicina/UNIFESP"
     },
     {
-      "title": "AmaZon ETD (ion trap, Bruker) acoplado ao sistema de cromatografia Shimadzu",
-      "content": "A armadilha ETD de \u00edons de velocidade amaZon estabelece novos padr\u00f5es na identifica\u00e7\u00e3o de prote\u00ednas, com sua maior velocidade de MS/MS, novo isolamento SWIFT e fragmenta\u00e7\u00e3o SMART. Isso resulta em uma identifica\u00e7\u00e3o de rotina sem ambiguidades de mais de 2500 prote\u00ednas em apenas uma sess\u00e3o de LC-MS/MS de 5 \u00b5g de um lisado HeLa. A linha de transfer\u00eancia de funil de \u00edon dual oferece sensibilidade de aferi\u00e7\u00e3o absoluta."
+      "name": "Profa. Dra. Kil Sun Lee",
+      "curriculo": "http://lattes.cnpq.br/7705881286363327",
+      "posicaoLab": "Vice-Coordenadora",
+      "posicaoUni": "Professora Associada",
+      "dep": "Departamento de Bioquímica",
+      "uni": "Escola Paulista de Medicina/UNIFESP"
+    }
+  ],
+  "docentes": [
+    {
+      "name": "Prof. Dr. Marcos Sergio de Toledo",
+      "curriculo": "http://lattes.cnpq.br/3308810633774571",
+      "posicao": "Professor Associado",
+      "dep": "Departamento de Bioquímica",
+      "uni": "Escola Paulista de Medicina/UNIFESP"
     },
     {
-      "title": "micrOTOF II (Q-TOF, Bruker), acoplado ao sistema de nano-cromatografia da Bruker",
-      "content": "O MicrOTOF QII \u00e9 um espectr\u00f4metro de massas utilizado para a identifica\u00e7\u00e3o de prote\u00ednas e pept\u00eddeos em larga escala com base em suas massas moleculares. A t\u00e9cnica de ioniza\u00e7\u00e3o utilizada por esse aparelho \u00e9 a ESI (electronspray ionization), que permite a produ\u00e7\u00e3o de \u00edons a partir de prote\u00ednas, pept\u00eddeos, outros biopol\u00edmeros e pequenas mol\u00e9culas polares.  O NuBioMol disp\u00f5e de um MicrOTOF QII contendo um analisador de massas do tipo h\u00edbrido quadrupolo/TOF, da Bruker Daltonics, que utiliza o tempo de v\u00f4o (TOF) para a separa\u00e7\u00e3o de \u00edons. Ele est\u00e1 acoplado a um HPLC Prominence da Shimadzu, compondo portanto um sistema de LCMS."
+      "name": "Prof. Dr. André Zelanis",
+      "curriculo": "http://lattes.cnpq.br/8149569348608834",
+      "posicao": "Professor Adjunto",
+      "dep": "",
+      "uni": "ICT/UNIFESP"
+    }
+  ],
+  "eqTecnica": [
+    {
+      "name": "Juliana Valentim Oliveira de Azevedo",
+      "curriculo": "http://lattes.cnpq.br/0376229633918852",
+      "dep": "Departamento de Bioquímica",
+      "uni": "Escola Paulista de Medicina/UNIFESP"
+    },
+    {
+      "name": "Dra. Michelle Tiveron Passos Riguetti",
+      "curriculo": "http://lattes.cnpq.br/8395380518958842",
+      "dep": "Departamento de Medicina",
+      "uni": "Escola Paulista de Medicina/UNIFESP"
+    }
+  ],
+  "estudantes": [
+    {
+
+    }
+  ],
+  "comite": [
+    {
+      "name": "Profa. Dra. Maria Luiza Vilela Oliva",
+      "curriculo": "https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4788053U4&tokenCaptchar=03AFcWeA4Sy3DYdIxtqiU1Ek0x-ruig1RSvFmo-vdYWepZwPkaz9FyihEIWcpIIwqj5wDReApRGmZelh7U2P9ps4C0whXcU2G_f2X98J_KY8Ixxip_rETweeuP6L3c4NwesVVfJBLxXnSe-mWQTsRIVEHElQmgwJJrvkxxYBQDJ8vULb6ICFEVDLOSicC_YMPvGWc6xMN95ZqifcZgx-hsfOshOuKbDBCADRHoh9CboJhQ1l5Ge9EU5apkRyp2soGTlJ5U6PRTSzy-VzielbYV0MZ9rOR6rovd2inwC23oFvW3LmVvfVPIUC41BAtX9Y_5YwJV14W4un5lrLL6lcAHndpymBZE2HIENNcidBVkrg2C6h5OpOCxStYvE8aIq7oB6kaipE_HnTRgQrWE8K8j52ODpfHG9_QjGnwPg74YgfCVyP5gf2YjtDgEf5EmvoVA9Owk8dCMESwD_-LGGcmyuoaCgPpsDj_s6r3xJy54Df22x0zQv7vw9OMJorPOwtQlzrJRgxnmGdJh9ZcY9GaJrPj3GOrrASKg2LbjcYjsbJSSZxItLMQPTCcRFzmkxKee3bAxqnogC7zZ",
+      "posicao": "Professora Titular",
+      "dep": "Departamento de Bioquímica",
+      "uni": "Escola Paulista de Medicina/UNIFESP"
+    },
+    {
+      "name": "Prof. Dr. Reinaldo Salomão",
+      "curriculo": "https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4781420Y7&tokenCaptchar=03AFcWeA5aMFAb9ELHNz_3esUaBpd1uQd2TqTljVLk4_OC0BnxXrZCB0RxhpVTabwlAFyE5OuUVE3-NNKkSch012Wx9h3oMDjRU5DolQPuUMHpxFeFRCNvDTkzktIC3UVrLzvjVd05FG59AEdC4bkx1RorF4t-U5FPs5_BFNsOdEhxL0tEMmaxw2oIfzElNMcTsmpO4t_3dFAq3aNjYfkSOAMwW5YX9jssmbbPB9CjldioOc_vL0wjvl-EnvQ_qSxaTHQMXFaJ7KoQ-U8Wl3hSvgUNU2aCbxxK6OliRBpFzL00Kt_gWUXy8eZDsGcj6vUv9vnpU9mEeh5vTkNsb8oEsNBsLSbnP0p5oLpLAfKXswzaT4qXzyS8rA6GPV2SxY8zQjkK8z_HUCQ1iXYwNFlEdzZFfTna5hiLKAo0Zqd9dJFTvrBfgEz_YuObu34IDw515PT_J08fXwKSlfDQ4sjfdv7XPojlL7wou0xwAGp7mPjUJGfmZPnPR27AeSwvKQS0T1iYywtHwgsroBGfTI0zaiyrFbo0-mg8BfrqQuz8k8h8zGrbQwyEgU-RK_J0IB-wPJofFRImR2ZA",
+      "posicao": "Professora Titular",
+      "dep": "Departamento de Infectologia",
+      "uni": "ICAQF/UNIFESP"
+    },
+    {
+      "name": "Dra. Anita Mitico Tanaka-Azevedo",
+      "curriculo": "https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4780119T6&tokenCaptchar=03AFcWeA4F_IBtRrAVlGy5twWxuDVOM3bqgAkY5ta1_lGYU5NOH0dD4IjXA2icmBycztPVIzBot4xjcogw245ecktuamQjoUNeXV9WaWdbK2iDSG_xVLoHDfUlQNQjW2u1l9qdfp0yUHDMnIq8pND-WGaKhb2Go5SW6NkLGax-uBh4voR8qUmdMqM89MI2vz-TKWk2Y8vlnQyJr5K0pNe17RJhiyb1yzgacv_vzQZWLIdhyrnj8kERiJJ975Dbc_8X8Qbeb0lXPvS_5Vy6caroXgbJwc6diIPTetA7pooESTiL0j5x_c6OYob75n6w6YVQVxZh2bvUqXeVh_vFKyxsK1OnwLKCJobPZO1aiC1OLD_HbVXSjVMO8sAkDBUtcbgt4PnT2f3GE0wHQqhzPzn9-ex9H7A9puNorXfaUZHxrC8SFWc79M9b9WJhT0su0R00XTs4Ve_MzBRb_QbcFr9FgpWjNkhYV9btnDG-2m1ZiSpNj2lOW8Lg7IAmfxVkpufUQd5LumZ8Qgq6EFCmuhYkTN6fGBvJN72MtZb2wgY5GH6GNeHrGS1ximT8lx8kwMqgs89IaBVYuf3h",
+      "posicao": "Pesquisadora Científica VI",
+      "dep": "Laboratório de Herpetologia",
+      "uni": "Instituto Butantan"
     }
   ]
 }
