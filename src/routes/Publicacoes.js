@@ -38,7 +38,7 @@ export default class Publicacoes extends React.Component{
 
         return (
             <div>
-                {Object.entries(publicacoesPorAno).map(([ano, publicacoes]) => (
+                {Object.entries(publicacoesPorAno).toReversed().map(([ano, publicacoes]) => (
                     <div key={ano}>
                         <h2 style={{marginTop:100}} className="categoriaTitle">{ano}</h2>
                         {publicacoes.map((row) => (

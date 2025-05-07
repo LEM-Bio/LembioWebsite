@@ -3,13 +3,12 @@ import 'bootstrap/dist/css/bootstrap.css';
 import Carousel  from 'react-bootstrap/Carousel';
 import './opCarousel.css'
 
-import carousel1 from '../../img/home/slider/carousel1.jpg'
-import carousel2 from '../../img/home/slider/carousel2.jpg'
+import carousel1 from '../../img/home/slider/carousel1.jpeg'
+import carousel2 from '../../img/home/slider/carousel2.jpeg'
 import carousel3 from '../../img/home/slider/carousel3.jpg'
 import carousel4 from '../../img/home/slider/carousel4.png'
 import carousel5 from '../../img/home/slider/carousel5.jpeg'
-import carousel6 from '../../img/home/slider/carousel6.jpg'
-import carousel7 from '../../img/home/slider/carousel7.jpg'
+import carousel6 from '../../img/home/slider/carousel6.jpeg'
 
 function OpeningCarousel() {
   return (
@@ -54,13 +53,6 @@ function OpeningCarousel() {
           <img
             className='imgCarousel'
             src={carousel5}
-            alt="Lab"
-          />
-        </Carousel.Item>
-        <Carousel.Item interval={3000}>
-          <img
-            className='imgCarousel'
-            src={carousel7}
             alt="Lab"
           />
         </Carousel.Item>
