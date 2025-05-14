@@ -9,6 +9,38 @@
       }
     }
   ],
+  "carousel": [
+    {
+      "image":{
+        "url": "https://proteomics.bioinfo.unifesp.br/static/media/carousel1.f36e40ff57440101453c.jpeg",
+        "alt": "Lab"
+      }
+    },
+    {
+      "image":{
+        "url": "https://proteomics.bioinfo.unifesp.br/static/media/carousel2.94eaa28f9a23b51db114.jpeg",
+        "alt": "Lab"
+      }
+    },
+    {
+      "image":{
+        "url": "https://proteomics.bioinfo.unifesp.br/static/media/carousel3.977081e97a10d2f1b294.jpg",
+        "alt": "Lab"
+      }
+    },
+    {
+      "image":{
+        "url": "https://proteomics.bioinfo.unifesp.br/static/media/carousel4.12278190057e05bec20f.png",
+        "alt": "Lab"
+      }
+    },
+    {
+      "image":{
+        "url": "https://proteomics.bioinfo.unifesp.br/static/media/carousel6.236ed86f18a882379e64.jpeg",
+        "alt": "Lab"
+      }
+    }
+  ],
   "noticias": [
     {
       "title": "Aluna de gradua\u00e7\u00e3o do curso de Biomedicina da Escola Paulista de Medicina/UNIFESP \u00e9 premiada no 6\u00ba congresso da Sociedade Brasileira de Prote\u00f4mica (BrProt)",
