@@ -22,7 +22,7 @@ function Form(){
             email: email
         }
 
-        emailjs.send("service_wrsx74c", "template_4ejc4aq", templateParams)
+        emailjs.send("service_wrsx74c", "template_4ejc4aq", templateParams, "Znqe5WyQPTZIOc9ql")
         .then((response) => {
             console.log("EMAIL ENVIADO", response.status, response.text)
             setName('')
