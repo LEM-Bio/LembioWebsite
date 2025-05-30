@@ -216,13 +216,6 @@
   ],
   "docentes": [
     {
-      "name": "teste",
-      "curriculo": "",
-      "posicao": "",
-      "dep": "",
-      "uni": ""
-    },
-    {
       "name": "Prof. Dr. Marcos Sergio de Toledo",
       "curriculo": "http://lattes.cnpq.br/3308810633774571",
       "posicao": "Professor Associado",
