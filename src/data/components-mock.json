@@ -187,9 +187,18 @@
   ],
   "equipamentos": [
     {
-      "cardTitle": "Synapt G2 HDMS",
-      "title": "Synapt G2 HDMS (Q-TOF, Waters) acoplado ao sistema de cromatografia nanoAcquity UPLC (Waters)",
-      "content": "O SYNAPT G2-S HDMS \u00e9 um espectr\u00f4metro de massa de tempo de voo (oa-TOF, Time of Flight) de acelera\u00e7\u00e3o ortogonal, de mobilidade i\u00f4nica, quadrupolo e h\u00edbrido controlado pelo software MassLynx\u00ae . Este sistema combina espectrometria de massa de alta resolu\u00e7\u00e3o de massa exata com medi\u00e7\u00f5es e separa\u00e7\u00f5es baseadas na mobilidade i\u00f4nica de alta efici\u00eancia (IMS).",
+      "title": "teste",
+      "cardTitle": "Teste",
+      "content": "teste",
+      "image": {
+        "url": "https://i.imgur.com/Vq8JEa6.png",
+        "alt": "teste"
+      }
+    },
+    {
+      "cardTitle": "Synapt G2 HDMS TESTE",
+      "title": "Synapt G2 HDMS (Q-TOF, Waters) acoplado ao sistema de cromatografia nanoAcquity UPLC (Waters) Teste",
+      "content": "O SYNAPT G2-S HDMS \u00e9 um espectr\u00f4metro de massa de tempo de voo (oa-TOF, Time of Flight) de acelera\u00e7\u00e3o ortogonal, de mobilidade i\u00f4nica, quadrupolo e h\u00edbrido controlado pelo software MassLynx\u00ae . Este sistema combina espectrometria de massa de alta resolu\u00e7\u00e3o de massa exata com medi\u00e7\u00f5es e separa\u00e7\u00f5es baseadas na mobilidade i\u00f4nica de alta efici\u00eancia (IMS). tEST",
       "image": {
         "url": "https://i.imgur.com/LcpEhyc.jpeg",
         "alt": "Synapt G2 HDMS"
