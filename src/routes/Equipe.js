@@ -39,7 +39,12 @@ function Equipe(){
             <div  className="Corpo">
                 {data.estudantes.map((estudante, index) => (
                     <div className="coord">
-                        
+                        <h5>{estudante.name}</h5>
+                        <a href={estudante.curriculo} target="_blank" rel="noreferrer">
+                            <p>Currículo Lattes</p>
+                        </a>
+                        <p>{estudante.nivel}</p>
+                        <p>{estudante.uni}</p>
                     </div>
                 ))}
             </div>
