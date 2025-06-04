@@ -187,9 +187,18 @@
   ],
   "equipamentos": [
     {
-      "cardTitle": "Synapt G2 HDMS",
+      "title": "Orbitrap Exploris 240 acoplado ao sistema de cromatografia Vanquish Neo",
+      "cardTitle": "Orbitrap Exploris 240",
+      "content": "",
+      "image": {
+        "url": "https://www.acm2.com/products_img/orbitrap-exploris-240-vanquish-2000x20001930675309.jpg",
+        "alt": "Orbitrap Exploris 240"
+      }
+    },
+    {
+      "cardTitle": "Synapt G2 HDMS ",
       "title": "Synapt G2 HDMS (Q-TOF, Waters) acoplado ao sistema de cromatografia nanoAcquity UPLC (Waters)",
-      "content": "O SYNAPT G2-S HDMS \u00e9 um espectr\u00f4metro de massa de tempo de voo (oa-TOF, Time of Flight) de acelera\u00e7\u00e3o ortogonal, de mobilidade i\u00f4nica, quadrupolo e h\u00edbrido controlado pelo software MassLynx\u00ae . Este sistema combina espectrometria de massa de alta resolu\u00e7\u00e3o de massa exata com medi\u00e7\u00f5es e separa\u00e7\u00f5es baseadas na mobilidade i\u00f4nica de alta efici\u00eancia (IMS).",
+      "content": "O SYNAPT G2-S HDMS \u00e9 um espectr\u00f4metro de massa de tempo de voo (oa-TOF, Time of Flight) de acelera\u00e7\u00e3o ortogonal, de mobilidade i\u00f4nica, quadrupolo e h\u00edbrido controlado pelo software MassLynx\u00ae . Este sistema combina espectrometria de massa de alta resolu\u00e7\u00e3o de massa exata com medi\u00e7\u00f5es e separa\u00e7\u00f5es baseadas na mobilidade i\u00f4nica de alta efici\u00eancia (IMS). ",
       "image": {
         "url": "https://i.imgur.com/LcpEhyc.jpeg",
         "alt": "Synapt G2 HDMS"
@@ -235,12 +244,6 @@
       "name": "Juliana Valentim Oliveira de Azevedo",
       "curriculo": "http://lattes.cnpq.br/0376229633918852",
       "dep": "Departamento de Bioqu\u00edmica",
-      "uni": "Escola Paulista de Medicina/UNIFESP"
-    },
-    {
-      "name": "Dra. Michelle Tiveron Passos Riguetti",
-      "curriculo": "http://lattes.cnpq.br/8395380518958842",
-      "dep": "Departamento de Medicina",
       "uni": "Escola Paulista de Medicina/UNIFESP"
     }
   ],
