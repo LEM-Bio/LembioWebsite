@@ -245,7 +245,12 @@
     }
   ],
   "estudantes": [
-    {}
+    {
+      "name": "",
+      "curriculo": "",
+      "nivel": "",
+      "uni": ""
+    }
   ],
   "comite": [
     {
